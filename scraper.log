@@ -1,0 +1,249 @@
+2025-04-11 02:31:32,360 - INFO - Job scraping initiated.
+2025-04-11 02:31:32,361 - INFO - ====== WebDriver manager ======
+2025-04-11 02:31:33,913 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:32:59,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:34:24,978 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 02:35:03,279 - ERROR - \u274c Scraping failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006980E3+60707]
+	GetHandleVerifier [0x00698124+60772]
+	(No symbol) [0x004C0683]
+	(No symbol) [0x00508660]
+	(No symbol) [0x005089FB]
+	(No symbol) [0x00551022]
+	(No symbol) [0x0052D094]
+	(No symbol) [0x0054E824]
+	(No symbol) [0x0052CE46]
+	(No symbol) [0x004FC5D3]
+	(No symbol) [0x004FD424]
+	GetHandleVerifier [0x008DBBC3+2435075]
+	GetHandleVerifier [0x008D7163+2416035]
+	GetHandleVerifier [0x008F350C+2531660]
+	GetHandleVerifier [0x006AF1B5+155125]
+	GetHandleVerifier [0x006B5B5D+182173]
+	GetHandleVerifier [0x0069F9B8+91640]
+	GetHandleVerifier [0x0069FB60+92064]
+	GetHandleVerifier [0x0068A620+4704]
+	BaseThreadInitThunk [0x76D7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778082AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7780827E+238]
+
+2025-04-11 02:42:36,774 - INFO - Job scraping initiated.
+2025-04-11 02:42:36,776 - INFO - ====== WebDriver manager ======
+2025-04-11 02:42:38,401 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:44:03,829 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:45:33,343 - INFO - Job scraping initiated.
+2025-04-11 02:45:33,344 - INFO - ====== WebDriver manager ======
+2025-04-11 02:45:34,908 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:47:00,702 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:47:43,520 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 02:50:13,641 - INFO - Job scraping initiated.
+2025-04-11 02:50:13,643 - INFO - ====== WebDriver manager ======
+2025-04-11 02:50:15,336 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:50:16,028 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 02:50:16,801 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 02:50:48,865 - INFO - Scraped 9 jobs and saved to scraped_data_20250411_025048.csv
+2025-04-11 03:06:46,096 - INFO - Job scraping initiated.
+2025-04-11 03:06:46,097 - INFO - ====== WebDriver manager ======
+2025-04-11 03:06:47,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 03:08:14,076 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 03:09:47,944 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 03:10:30,476 - INFO - Scraped 9 jobs and saved to scraped_data_20250411_031030.csv
+2025-04-11 04:36:12,071 - INFO - Job scraping initiated.
+2025-04-11 04:36:12,072 - INFO - ====== WebDriver manager ======
+2025-04-11 04:36:14,275 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 04:37:38,978 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 04:39:03,266 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 04:39:16,518 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_043916.csv
+2025-04-11 04:59:44,833 - INFO - Job scraping initiated.
+2025-04-11 04:59:44,834 - INFO - ====== WebDriver manager ======
+2025-04-11 04:59:46,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:01:12,935 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:02:42,699 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:02:54,940 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,942 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,942 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,944 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,945 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,945 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,946 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,946 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,947 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,948 - WARNING - \u274c Error extracting job: name 'extract_from_description' is not defined
+2025-04-11 05:02:54,948 - INFO - \u26a0\ufe0f No jobs extracted.
+2025-04-11 05:03:22,488 - INFO - Job scraping initiated.
+2025-04-11 05:03:22,488 - INFO - ====== WebDriver manager ======
+2025-04-11 05:03:24,009 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:04:49,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:06:14,793 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:06:34,525 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_050634.csv
+2025-04-11 05:18:57,871 - INFO - Job scraping initiated.
+2025-04-11 05:18:57,872 - INFO - ====== WebDriver manager ======
+2025-04-11 05:18:59,288 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:20:25,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:20:54,377 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:21:04,312 - ERROR - \u274c Scraping failed: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x006980E3+60707]
+	GetHandleVerifier [0x00698124+60772]
+	(No symbol) [0x004C0683]
+	(No symbol) [0x004BDAE0]
+	(No symbol) [0x004B1458]
+	(No symbol) [0x004B2D40]
+	(No symbol) [0x004B16E8]
+	(No symbol) [0x004B1243]
+	(No symbol) [0x004B0F51]
+	(No symbol) [0x004AEF30]
+	(No symbol) [0x004AF8CB]
+	(No symbol) [0x004C400E]
+	(No symbol) [0x0054F427]
+	(No symbol) [0x0052D04C]
+	(No symbol) [0x0054E824]
+	(No symbol) [0x0052CE46]
+	(No symbol) [0x004FC5D3]
+	(No symbol) [0x004FD424]
+	GetHandleVerifier [0x008DBBC3+2435075]
+	GetHandleVerifier [0x008D7163+2416035]
+	GetHandleVerifier [0x008F350C+2531660]
+	GetHandleVerifier [0x006AF1B5+155125]
+	GetHandleVerifier [0x006B5B5D+182173]
+	GetHandleVerifier [0x0069F9B8+91640]
+	GetHandleVerifier [0x0069FB60+92064]
+	GetHandleVerifier [0x0068A620+4704]
+	BaseThreadInitThunk [0x76D7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778082AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7780827E+238]
+
+2025-04-11 05:21:23,397 - INFO - Job scraping initiated.
+2025-04-11 05:21:23,397 - INFO - ====== WebDriver manager ======
+2025-04-11 05:21:24,637 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:21:25,325 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:21:26,215 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:21:55,394 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_052155.csv
+2025-04-11 05:22:38,982 - INFO - Job scraping initiated.
+2025-04-11 05:22:38,982 - INFO - ====== WebDriver manager ======
+2025-04-11 05:22:40,309 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:22:40,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:22:41,931 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:23:00,359 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_052300.csv
+2025-04-11 05:31:37,043 - INFO - Job scraping initiated.
+2025-04-11 05:31:37,044 - INFO - ====== WebDriver manager ======
+2025-04-11 05:31:38,580 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:33:03,327 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:34:27,709 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:34:39,498 - WARNING - \u26a0\ufe0f No job listings found.
+2025-04-11 05:36:57,205 - INFO - Job scraping initiated.
+2025-04-11 05:36:57,206 - INFO - ====== WebDriver manager ======
+2025-04-11 05:36:58,553 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:38:23,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:39:47,973 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:40:08,317 - WARNING - \u26a0\ufe0f No job listings found.
+2025-04-11 05:40:26,575 - INFO - Job scraping initiated.
+2025-04-11 05:40:26,575 - INFO - ====== WebDriver manager ======
+2025-04-11 05:40:28,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:41:52,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:43:18,350 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:43:32,202 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_054332.csv
+2025-04-11 05:45:30,224 - INFO - Job scraping initiated.
+2025-04-11 05:45:30,224 - INFO - ====== WebDriver manager ======
+2025-04-11 05:45:31,715 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:46:58,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:48:24,455 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 05:48:38,963 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,965 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,967 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,968 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,968 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,969 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,970 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,971 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,972 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,972 - WARNING - \u274c Error extracting job: name 'company' is not defined
+2025-04-11 05:48:38,973 - INFO - \u26a0\ufe0f No jobs extracted.
+2025-04-11 05:58:24,491 - INFO - Job scraping initiated.
+2025-04-11 05:58:24,492 - INFO - ====== WebDriver manager ======
+2025-04-11 05:58:26,327 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 05:59:51,925 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:01:16,696 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 06:02:32,158 - INFO - Job scraping initiated.
+2025-04-11 06:02:32,158 - INFO - ====== WebDriver manager ======
+2025-04-11 06:02:34,880 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:04:00,220 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:05:45,408 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 06:07:36,634 - INFO - Job scraping initiated.
+2025-04-11 06:07:36,635 - INFO - ====== WebDriver manager ======
+2025-04-11 06:07:38,467 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:07:55,383 - ERROR - \u274c Scraping failed: Could not reach host. Are you offline?
+2025-04-11 06:08:55,713 - INFO - Job scraping initiated.
+2025-04-11 06:08:55,713 - INFO - ====== WebDriver manager ======
+2025-04-11 06:08:57,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:10:23,058 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:11:47,994 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 06:12:07,905 - WARNING - \u26a0\ufe0f No job listings found.
+2025-04-11 06:13:46,657 - INFO - Job scraping initiated.
+2025-04-11 06:13:46,659 - INFO - ====== WebDriver manager ======
+2025-04-11 06:13:48,740 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:15:15,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:16:39,619 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 06:17:04,962 - ERROR - \u274c Scraping failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006980E3+60707]
+	GetHandleVerifier [0x00698124+60772]
+	(No symbol) [0x004C0683]
+	(No symbol) [0x00508660]
+	(No symbol) [0x005089FB]
+	(No symbol) [0x00551022]
+	(No symbol) [0x0052D094]
+	(No symbol) [0x0054E824]
+	(No symbol) [0x0052CE46]
+	(No symbol) [0x004FC5D3]
+	(No symbol) [0x004FD424]
+	GetHandleVerifier [0x008DBBC3+2435075]
+	GetHandleVerifier [0x008D7163+2416035]
+	GetHandleVerifier [0x008F350C+2531660]
+	GetHandleVerifier [0x006AF1B5+155125]
+	GetHandleVerifier [0x006B5B5D+182173]
+	GetHandleVerifier [0x0069F9B8+91640]
+	GetHandleVerifier [0x0069FB60+92064]
+	GetHandleVerifier [0x0068A620+4704]
+	BaseThreadInitThunk [0x76D7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778082AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7780827E+238]
+
+2025-04-11 06:17:31,189 - INFO - Job scraping initiated.
+2025-04-11 06:17:31,189 - INFO - ====== WebDriver manager ======
+2025-04-11 06:17:33,047 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:18:58,733 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:20:23,971 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 06:20:43,921 - INFO - Scraped 10 jobs and saved to scraped_data_20250411_062043.csv
+2025-04-11 06:21:23,711 - INFO - Job scraping initiated.
+2025-04-11 06:21:23,711 - INFO - ====== WebDriver manager ======
+2025-04-11 06:21:25,722 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:22:50,314 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-11 06:24:17,486 - INFO - Driver [C:\Users\uncommonStudent\.wdm\drivers\chromedriver\win64\135.0.7049.84\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-11 06:24:53,716 - ERROR - \u274c Scraping failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006980E3+60707]
+	GetHandleVerifier [0x00698124+60772]
+	(No symbol) [0x004C0683]
+	(No symbol) [0x00508660]
+	(No symbol) [0x005089FB]
+	(No symbol) [0x00551022]
+	(No symbol) [0x0052D094]
+	(No symbol) [0x0054E824]
+	(No symbol) [0x0052CE46]
+	(No symbol) [0x004FC5D3]
+	(No symbol) [0x004FD424]
+	GetHandleVerifier [0x008DBBC3+2435075]
+	GetHandleVerifier [0x008D7163+2416035]
+	GetHandleVerifier [0x008F350C+2531660]
+	GetHandleVerifier [0x006AF1B5+155125]
+	GetHandleVerifier [0x006B5B5D+182173]
+	GetHandleVerifier [0x0069F9B8+91640]
+	GetHandleVerifier [0x0069FB60+92064]
+	GetHandleVerifier [0x0068A620+4704]
+	BaseThreadInitThunk [0x76D7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x778082AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7780827E+238]
+
